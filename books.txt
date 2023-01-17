@@ -1,0 +1,90 @@
+9
+1
+title -> Eloquent JavaScript
+author -> Marijn Haverbeke
+isbn -> 9781593279509
+publisher -> No Starch Press
+total_pages -> 472
+rating -> 4.15
+published_date -> 21/10/2010
+
+2
+title -> Practical Modern JavaScript
+author -> Nicolás Bevacqua
+isbn -> 9781491943533
+publisher -> O'Reilly Media
+total_pages -> 334
+rating -> 3.7
+published_date -> 21/10/2017
+
+3
+title -> Understanding ECMAScript 6
+author -> Nicholas C. Zakas
+isbn -> 9781593277574
+publisher -> No Starch Press
+total_pages -> 352
+rating -> 3.9
+published_date -> 21/01/2016
+
+4
+title -> Speaking JavaScript
+author -> Axel Rauschmayer
+isbn -> 9781449365035
+publisher -> O'Reilly Media
+total_pages -> 460
+rating -> 4.2
+published_date -> 21/10/2014
+
+5
+title -> Pro Git
+author -> Scott Chacon
+isbn -> 9781484200766
+publisher -> Apress
+total_pages -> 458
+rating -> 4.17
+published_date -> 21/10/2014
+
+6
+title -> Rethinking Productivity in Software Engineering
+author -> Caitlin Sadowski
+isbn -> 9781484242216
+publisher -> Apress
+total_pages -> 310
+rating -> 3.7
+published_date -> 21/05/2019
+
+7
+title -> SOFTWARE ENGINEERING
+author -> Ian Sommerville
+isbn -> 9780137035151
+publisher -> Pearson
+total_pages -> 790
+rating -> 3.7
+published_date -> 21/10/2016
+
+8
+title -> Seven Databases in Seven Weeks
+author -> Eric Redmond
+isbn -> 9781934356920
+publisher -> Pragmatic Programmers
+total_pages -> 347
+rating -> 4.12
+published_date -> 26/05/2012
+
+9
+title -> Data Structures and Algorithms in Java
+author -> Goodrich
+isbn -> 9781118771334
+publisher -> Wiley
+total_pages -> 740
+rating -> 3.7
+published_date -> 21/10/2014
+
+10
+title -> Clean Code
+author -> Robert C. Martin
+isbn -> 
+publisher -> 
+total_pages -> 462
+rating -> 4.3
+published_date -> 21/10/2009
