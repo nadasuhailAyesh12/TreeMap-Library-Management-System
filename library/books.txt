@@ -83,8 +83,8 @@ published_date -> 21/10/2014
 10
 title -> Clean Code
 author -> Robert C. Martin
-isbn -> 
-publisher -> 
+isbn -> 9781118771334
+publisher -> jhone
 total_pages -> 462
 rating -> 4.3
 published_date -> 21/10/2009
